@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Jonas e jogos retrô",
+  title: "TabNews | Em Construção",
 };
 
 export default function RootLayout({ children }) {
