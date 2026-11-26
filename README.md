@@ -16,3 +16,5 @@ npm install
 - `npm run lint`: verifica o código com ESLint;
 - `npm run format`: formata os arquivos com Prettier;
 - `npm run format:check`: verifica se os arquivos estão formatados.
+
+Antes de cada commit, o Husky executa ESLint e Prettier nos arquivos staged compatíveis.
